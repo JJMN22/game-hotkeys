@@ -52,14 +52,14 @@ Hotkey=B
 Unhotkey=B
 
 [Acan]
-Hotkey=C
+Hotkey=R
 
 [ACbb]
 Hotkey=B
 Unhotkey=B
 
 [ACbf]
-Hotkey=F
+Hotkey=D
 
 [ACbz]
 Hotkey=B
@@ -93,11 +93,11 @@ Unhotkey=B,B
 Hotkey=D
 
 [ACff]
-Hotkey=R
-Unhotkey=R
+Hotkey=D
+Unhotkey=D
 
 [ACfn]
-Hotkey=N
+Hotkey=D
 
 [ACif]
 Hotkey=F
@@ -147,7 +147,7 @@ Unhotkey=R
 Hotkey=W
 
 [ACtb]
-Hotkey=B
+Hotkey=D
 
 [ACuf]
 Hotkey=U
@@ -175,7 +175,7 @@ Hotkey=W
 Hotkey=U
 
 [Adro]
-Hotkey=U
+Hotkey=D
 
 [Adsm]
 Hotkey=D,D
@@ -408,13 +408,13 @@ MerchantAvailable=1
 Hotkey=C
 
 [Aloa]
-Hotkey=L
+Hotkey=V
 
 [Alsh]
 Hotkey=L
 
 [Ambb]
-Hotkey=B
+Hotkey=D
 
 [Ambt]
 Hotkey=R
@@ -424,8 +424,8 @@ Unhotkey=R
 Hotkey=D
 
 [Amel]
-Hotkey=C
-Unhotkey=C
+Hotkey=V
+Unhotkey=V
 
 [Amfl]
 Hotkey=F
@@ -523,7 +523,7 @@ Hotkey=E
 Researchhotkey=E
 
 [Andt]
-Hotkey=R
+Hotkey=S
 
 [ANef]
 Hotkey=R
@@ -534,7 +534,7 @@ Hotkey=E
 Researchhotkey=E
 
 [Anei]
-Hotkey=U
+Hotkey=V
 
 [ANf1]
 Hotkey= 
@@ -821,20 +821,20 @@ Hotkey=C
 Hotkey=A
 
 [Asd2]
-Hotkey=B
-Unhotkey=B
+Hotkey=D
+Unhotkey=D
 
 [Asd3]
-Hotkey=B
-Unhotkey=B
+Hotkey=D
+Unhotkey=D
 
 [Asdg]
-Hotkey=B
-Unhotkey=B
+Hotkey=D
+Unhotkey=D
 
 [Asds]
-Hotkey=B
-Unhotkey=B
+Hotkey=D
+Unhotkey=D
 
 [Ashm]
 Hotkey=X
@@ -929,7 +929,7 @@ Hotkey=R
 Researchhotkey=R
 
 [Auns]
-Hotkey=U
+Hotkey=X
 
 [AUsl]
 Hotkey=W
@@ -952,7 +952,7 @@ Unhotkey=W
 Hotkey=G
 
 [Awrs]
-Hotkey=T
+Hotkey=D
 
 [axas]
 Hotkey=A
@@ -976,7 +976,7 @@ Hotkey=R
 MerchantAvailable=1
 
 [bspd]
-Hotkey=S
+Hotkey=Q
 
 [ccmd]
 Hotkey=C
@@ -1016,7 +1016,7 @@ Hotkey=B
 Hotkey=D
 
 [CmdBuildUndead]
-Hotkey=B
+Hotkey=D
 
 [CmdCancel]
 Hotkey=U
@@ -1034,7 +1034,7 @@ Hotkey=27
 Hotkey=C
 
 [CmdMove]
-Hotkey=M
+Hotkey=A
 
 [CmdPatrol]
 Hotkey=Z
@@ -1081,7 +1081,7 @@ Hotkey=T
 Hotkey=D
 
 [dust]
-Hotkey=D
+Hotkey=R
 
 [eaoe]
 Hotkey=L
@@ -1448,7 +1448,7 @@ MerchantAvailable=1
 Hotkey=L
 
 [mcou]
-Hotkey=M
+Hotkey=C
 MerchantAvailable=1
 
 [mcri]
@@ -1483,19 +1483,19 @@ Hotkey=D
 Hotkey=W
 
 [Nal2]
-Hotkey=X
+Hotkey=F
 
 [Nal3]
-Hotkey=X
+Hotkey=F
 
 [Nalc]
-Hotkey=X
+Hotkey=F
 
 [Nalm]
-Hotkey=X
+Hotkey=F
 
 [nass]
-Hotkey=A
+Hotkey=D
 
 [nba2]
 Hotkey= 
@@ -1513,13 +1513,13 @@ Hotkey=
 Hotkey=W
 
 [nbdw]
-Hotkey=W
+Hotkey=E
 
 [nbot]
-Hotkey=T
+Hotkey=D
 
 [Nbrn]
-Hotkey=R
+Hotkey=W
 
 [Nbst]
 Hotkey=S
@@ -1528,19 +1528,19 @@ Hotkey=S
 Hotkey=D
 
 [nbzd]
-Hotkey=D
+Hotkey=R
 
 [nbzk]
-Hotkey=K
+Hotkey=D
 
 [nbzw]
-Hotkey=W
+Hotkey=S
 
 [ncea]
-Hotkey=A
+Hotkey=S
 
 [ncen]
-Hotkey=O
+Hotkey=D
 
 [ncg1]
 Hotkey= 
@@ -1573,10 +1573,10 @@ Hotkey=
 Hotkey= 
 
 [ndtb]
-Hotkey=B
+Hotkey=D
 
 [ndtp]
-Hotkey=P
+Hotkey=S
 
 [nfa1]
 Hotkey= 
@@ -1591,10 +1591,10 @@ Hotkey=
 Hotkey= 
 
 [nfgb]
-Hotkey=B,B
+Hotkey=S,S
 
 [Nfir]
-Hotkey=O
+Hotkey=R
 
 [nfra]
 Hotkey= 
@@ -1603,13 +1603,13 @@ Hotkey=
 Hotkey= 
 
 [nfsh]
-Hotkey=H
+Hotkey=R
 
 [nfsp]
-Hotkey=P
+Hotkey=S
 
 [nftb]
-Hotkey=B
+Hotkey=D
 
 [ngad]
 Hotkey= 
@@ -1618,28 +1618,28 @@ Hotkey=
 Hotkey=K
 
 [ngir]
-Hotkey=G
+Hotkey=R
 
 [ngme]
 Hotkey= 
 
 [ngnb]
-Hotkey=B
+Hotkey=S
 
 [ngnw]
-Hotkey=W
+Hotkey=D
 
 [ngrd]
 Hotkey=D
 
 [ngrk]
-Hotkey=U
+Hotkey=E
 
 [ngrw]
 Hotkey=W
 
 [ngsp]
-Hotkey=S
+Hotkey=D
 
 [ngst]
 Hotkey= 
@@ -1648,31 +1648,31 @@ Hotkey=
 Hotkey= 
 
 [nhrw]
-Hotkey=W
+Hotkey=R
 
 [nitp]
-Hotkey=P
+Hotkey=S
 
 [nits]
-Hotkey=B
+Hotkey=D
 
 [nkog]
-Hotkey=G
+Hotkey=E
 
 [nkol]
-Hotkey=K
+Hotkey=R
 
 [nkot]
-Hotkey=T
+Hotkey=S
 
 [nmbg]
-Hotkey=B
+Hotkey=S
 
 [nmer]
 Hotkey= 
 
 [nmfs]
-Hotkey=M
+Hotkey=S
 
 [nmr0]
 Hotkey= 
@@ -1720,31 +1720,31 @@ Hotkey=
 Hotkey= 
 
 [nmsn]
-Hotkey=G
+Hotkey=E
 
 [Nngs]
-Hotkey=G
+Hotkey=Q
 
 [nnwa]
-Hotkey=W
+Hotkey=S
 
 [nnwr]
-Hotkey=N
+Hotkey=E
 
 [nogm]
-Hotkey=M
+Hotkey=R
 
 [nomg]
-Hotkey=G
+Hotkey=E
 
 [nowb]
-Hotkey=W
+Hotkey=D
 
 [Npbm]
-Hotkey=N
+Hotkey=E
 
 [Nplh]
-Hotkey=I
+Hotkey=A
 
 [npn2]
 Hotkey=T
@@ -1756,70 +1756,70 @@ Hotkey=E
 Hotkey= 
 
 [nqbh]
-Hotkey=H
+Hotkey=E
 
 [nrdk]
-Hotkey=W
+Hotkey=S
 
 [nrdr]
-Hotkey=K
+Hotkey=D
 
 [Nrob]
-Hotkey=Z
+Hotkey=D
 
 [nrog]
-Hotkey=R
+Hotkey=S
 
 [nrvi]
 Hotkey= 
 
 [nrvs]
-Hotkey=F,F
+Hotkey=R,R
 
 [nrwm]
-Hotkey=D
+Hotkey=R
 
 [nshp]
 Hotkey= 
 
 [nskf]
-Hotkey=B
+Hotkey=S
 
 [nsln]
-Hotkey=L
+Hotkey=R
 
 [nsog]
-Hotkey=G
+Hotkey=R
 
 [nsrh]
-Hotkey=H
+Hotkey=D
 
 [nssp]
-Hotkey=P
+Hotkey=D
 
 [nsts]
-Hotkey=S
+Hotkey=E
 
 [ntav]
 Hotkey= 
 
 [Ntin]
-Hotkey=Z
-
-[ntkh]
-Hotkey=H
-
-[nubw]
 Hotkey=D
 
+[ntkh]
+Hotkey=S
+
+[nubw]
+Hotkey=R
+
 [nvdw]
-Hotkey=V
+Hotkey=E
 
 [nwlg]
-Hotkey=W
+Hotkey=E
 
 [nzep]
-Hotkey=Z
+Hotkey=E
 
 [oalt]
 Hotkey=A
@@ -1974,7 +1974,7 @@ MerchantAvailable=1
 Hotkey=P
 
 [pinv]
-Hotkey=I
+Hotkey=S
 
 [plcl]
 Hotkey=C
@@ -1987,7 +1987,7 @@ Hotkey=P
 MerchantAvailable=1
 
 [pnvl]
-Hotkey=N
+Hotkey=C
 
 [pnvu]
 Hotkey=I
@@ -2012,7 +2012,7 @@ Hotkey=A
 MerchantAvailable=1
 
 [ram1]
-Hotkey=R
+Hotkey=D
 MerchantAvailable=1
 
 [ram2]
@@ -2024,14 +2024,14 @@ Hotkey=R
 MerchantAvailable=1
 
 [ram4]
-Hotkey=R
+Hotkey=X
 MerchantAvailable=1
 
 [rat3]
 Hotkey=K
 
 [rat6]
-Hotkey=C
+Hotkey=S
 MerchantAvailable=1
 
 [rat9]
@@ -2052,11 +2052,11 @@ Hotkey=2
 Hotkey=3
 
 [rde3]
-Hotkey=52
+Hotkey=4
 MerchantAvailable=1
 
 [rde4]
-Hotkey=53
+Hotkey=5
 MerchantAvailable=1
 
 [rdis]
@@ -2324,7 +2324,7 @@ Hotkey=D
 Hotkey=S
 
 [rst1]
-Hotkey=S
+Hotkey=Q
 MerchantAvailable=1
 
 [Ruac]
@@ -2337,7 +2337,7 @@ Hotkey=U,U,U
 Hotkey=A,A
 
 [Rubu]
-Hotkey=B
+Hotkey=V
 
 [Rucr]
 Hotkey=C,C,C
@@ -2415,7 +2415,7 @@ Hotkey=H
 Hotkey=I
 
 [Sdro]
-Hotkey=U
+Hotkey=D
 
 [sfog]
 Hotkey=C
@@ -2434,7 +2434,7 @@ Hotkey=S
 Hotkey=D
 
 [shea]
-Hotkey=H
+Hotkey=X
 
 [shen]
 Hotkey=E
@@ -2461,7 +2461,7 @@ Hotkey=K
 Hotkey=L
 
 [Slo3]
-Hotkey=L
+Hotkey=V
 
 [sman]
 Hotkey=M
@@ -2506,7 +2506,7 @@ Hotkey=O
 Hotkey=E
 
 [spro]
-Hotkey=R
+Hotkey=A
 
 [spsh]
 Hotkey=A
@@ -2540,7 +2540,7 @@ Hotkey=E
 MerchantAvailable=1
 
 [stel]
-Hotkey=E
+Hotkey=F
 
 [stpg]
 Hotkey=P
@@ -2552,7 +2552,7 @@ Hotkey=R
 Hotkey=W
 
 [stwp]
-Hotkey=T
+Hotkey=D
 
 [tbak]
 Hotkey=K
@@ -2597,7 +2597,7 @@ Hotkey=R
 Hotkey=T
 
 [tret]
-Hotkey=O
+Hotkey=Z
 
 [tsct]
 Hotkey=V
@@ -2627,7 +2627,7 @@ Hotkey=T
 Hotkey=C
 
 [ucry]
-Hotkey=F
+Hotkey=W
 
 [ucs2]
 Hotkey= 
@@ -2643,10 +2643,10 @@ Hotkey=F
 
 [ugar]
 CanPrioritizeAir=1
-Hotkey=A
+Hotkey=R
 
 [ugho]
-Hotkey=G
+Hotkey=D
 
 [ugol]
 Hotkey=G
@@ -2674,7 +2674,7 @@ Hotkey=X
 Hotkey=X
 
 [unpl]
-Hotkey=N
+Hotkey=D
 
 [uobs]
 Hotkey=O
@@ -2683,7 +2683,7 @@ Hotkey=O
 Hotkey=S
 
 [usep]
-Hotkey=C
+Hotkey=W
 
 [uslh]
 Hotkey=H
@@ -2703,7 +2703,7 @@ Hotkey=N
 OffensiveStructure=1
 
 [uzig]
-Hotkey=Z
+Hotkey=F
 
 [vamp]
 Hotkey=V
